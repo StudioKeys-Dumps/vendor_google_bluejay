@@ -448,7 +448,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02 \
     DevicePersonalizationPrebuiltPixel2021-aiai_20240329.00_RC16 \
     DiagMon \
     EuiccGoogle \
